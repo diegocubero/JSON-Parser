@@ -1,0 +1,12 @@
+# Log files
+*.log
+
+# IDEs and tools
+## IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+## Maven
+target/
