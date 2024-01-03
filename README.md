@@ -1,4 +1,4 @@
-Diego's CloudWalk QA Engineer Test Project
+Diego's Quake JSON Parser Project
 --
 ## Rationale
 1. **Identify the structure of the log file:** The first step in parsing the log file is to understand its structure. We assume that the log file has entries for each kill, the player responsible, the player who was killed, and the cause of the kill. 
